@@ -7,11 +7,8 @@ public class Calculations {
             sum = sum + i;
             i++;
         }
-
         return sum;
 
-    
 
-    
     }
 }
