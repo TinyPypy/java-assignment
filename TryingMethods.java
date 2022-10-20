@@ -4,8 +4,8 @@ public class TryingMethods {
         MySchedule aDay = new MySchedule();
         String myDay = aDay.mySchedule(3);
         System.out.println(myDay);
-
-        
+        SumEven.thesum();
+        System.out.println(SumEven.thesum());
 
         System.out.println(Calculations.calculations());
 
