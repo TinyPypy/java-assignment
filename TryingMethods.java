@@ -6,6 +6,9 @@ public class TryingMethods {
         System.out.println(myDay);
         SumEven.thesum();
         System.out.println(SumEven.thesum());
+        Ifstatements myprofile = new Ifstatements();
+        myprofile.patienceProfile("CODE");
+        
 
         System.out.println(Calculations.calculations());
 
