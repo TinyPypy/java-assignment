@@ -4,7 +4,10 @@ public class TryingMethods {
         MySchedule aDay = new MySchedule();
         String myDay = aDay.mySchedule(3);
         System.out.println(myDay);
-
+        SumEven.thesum();
+        System.out.println(SumEven.thesum());
+        Ifstatements myprofile = new Ifstatements();
+        myprofile.patienceProfile("CODE");
         
 
         System.out.println(Calculations.calculations());
